@@ -1,0 +1,8 @@
+.idea
+.ipynb_checkpoints
+_about.txt
+runs/
+rus-eng.zip
+rus.txt
+__pycache__
+training_logs

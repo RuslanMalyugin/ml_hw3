@@ -1,0 +1,5 @@
+numpy==1.23.5
+torch==2.0.0
+torchtext==0.15.1
+tqdm==4.64.1
+jupyter
